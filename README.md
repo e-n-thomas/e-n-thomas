@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PyTorch**
 
-- 🤩 My coolest project yet **YouTube Video Summarizer**
+- 🤩 My coolest project yet is **YouTube Video Summarizer**
 
 - 📫 How to reach me **thomasian893@gmail.com**
 
